@@ -5,87 +5,96 @@ Computer Science Engineering Student | Java Developer | DSA Enthusiast | Full-St
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+Passionate about solving problems with Java, building scalable web applications, and continuously learning new technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Engineering Student from India
+- 🎓 Computer Science Engineering Student
 - 💻 Currently learning **Java, Data Structures & Algorithms**
-- 🌐 Exploring **Full-Stack Web Development**
+- 🌐 Exploring **Full-Stack Web Development (MERN Stack)**
 - 🚀 Building real-world projects
 - 📚 Solving LeetCode problems consistently
+- 🤝 Open to collaboration on Java and Web Development projects
 - 🎯 Goal: Become a Software Engineer
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-<img width="15"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-
-</div>
+- ☕ Advanced Java
+- 📚 Data Structures & Algorithms
+- ⚛️ React.js
+- 🟢 Node.js
+- 🍃 MongoDB
+- 🧠 System Design Basics
 
 ---
 
-## 🏆 LeetCode & Coding
+# 💻 Tech Stack
 
-- 🔥 Solving Data Structures & Algorithms problems daily
-- 📈 Focused on Java for coding interviews
-- 💯 Goal: Master DSA and Crack Top Product Companies
-
----
-
-## 🌟 Current Focus
-
-- 📚 Advanced Data Structures & Algorithms
-- 🌐 Full-Stack Development (MERN)
-- ⚡ System Design Basics
-- 🤖 AI & GenAI
-- 🚀 Open Source Contributions
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,react,nodejs,mongodb,git,github,vscode&perline=6"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Activity Graph
+
+[![Jashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🚀 Smart Queue Management System
+
+- QR-Based Queue Management
+- Live Queue Tracking
+- Admin Dashboard
+- React + Node.js + MongoDB
+
+---
+
+## 🌐 Portfolio Website
+
+- Responsive Personal Portfolio
+- Modern UI Design
+- HTML, CSS & JavaScript
+
+---
+
+# 📚 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
 
@@ -101,34 +110,47 @@ Computer Science Engineering Student | Java Developer | DSA Enthusiast | Full-St
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🎯 2026 Goals
 
-> "Consistency beats talent when talent doesn't work hard."
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+- ✅ Master Java
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Build 10+ Full-Stack Projects
+- ✅ Learn System Design
+- ✅ Contribute to Open Source
+- ✅ Become a Software Engineer
 
 ---
 
-<div align="center">
+# ⚡ Fun Fact
 
-### ⭐ Thanks for visiting my profile!
+```java
+while(!success){
+    learn();
+    practice();
+    improve();
+}
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F72F&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Enthusiast;Full-Stack+Web+Developer;Always+Learning+New+Things+🚀"/>
+---
 
-</div>
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Consistency beats talent when talent doesn't work hard."** 🚀
