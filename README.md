@@ -5,12 +5,16 @@ Computer Science Engineering Student | Java Developer | DSA Enthusiast | Full-St
 </h3>
 
 <p align="center">
-Passionate about solving problems with Java, building scalable web applications, and continuously learning new technologies.
+  Passionate about solving problems with Java, building scalable web applications, and continuously learning new technologies.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 Computer Science Engineering Student
 - 💻 Currently learning **Java, Data Structures & Algorithms**
@@ -22,7 +26,7 @@ Passionate about solving problems with Java, building scalable web applications,
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - ☕ Advanced Java
 - 📚 Data Structures & Algorithms
@@ -33,48 +37,74 @@ Passionate about solving problems with Java, building scalable web applications,
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,react,nodejs,mongodb,git,github,vscode&perline=6"/>
+
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
 
 [![Jashwanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+
 </p>
 
 ---
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
-## 🚀 Smart Queue Management System
+### 🚀 Smart Queue Management System
 
-- QR-Based Queue Management
-- Live Queue Tracking
+- QR-based Queue Management
 - Admin Dashboard
+- Live Queue Tracking
 - React + Node.js + MongoDB
 
 ---
 
-## 🌐 Portfolio Website
+### 💻 Portfolio Website
 
-- Responsive Personal Portfolio
-- Modern UI Design
-- HTML, CSS & JavaScript
+- Personal Portfolio
+- Responsive Design
+- Modern UI
 
 ---
 
-# 📚 Coding Profiles
+## 📚 Coding Profiles
 
 <p align="left">
 
@@ -94,7 +124,7 @@ Passionate about solving problems with Java, building scalable web applications,
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
 
@@ -118,18 +148,18 @@ Passionate about solving problems with Java, building scalable web applications,
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-- ✅ Master Java
+- ✅ Master Data Structures & Algorithms
 - ✅ Solve 500+ LeetCode Problems
 - ✅ Build 10+ Full-Stack Projects
 - ✅ Learn System Design
 - ✅ Contribute to Open Source
-- ✅ Become a Software Engineer
+- ✅ Crack a Software Engineer Role
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
 ```java
 while(!success){
@@ -137,20 +167,3 @@ while(!success){
     practice();
     improve();
 }
-```
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Consistency beats talent when talent doesn't work hard."** 🚀
