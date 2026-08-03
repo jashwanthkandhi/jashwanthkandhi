@@ -1,193 +1,22 @@
+<h1 align="center">Hi 👋, I'm Jashwanth Kandhi</h1>
+<h3 align="center">Building scalable web applications with the MERN Stack while mastering Data Structures & Algorithms in Java.</h3>
 
-Jashwanth Kandhi
-Decoding the future, one byte at a time. 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jashwanthkandhi&label=Profile%20views&color=0e75b6&style=flat" alt="jashwanthkandhi" /> </p>
 
-👽 Terminal Access: System Overview
-> System.initialize("Jashwanth Kandhi")
-> Loading core modules... Python, Java, C, JS [OK]
-> Neural Link: AI & Rising Tech Enthusiast [ACTIVE]
-Welcome to my digital enclave! I’m a developer passionate about crafting scalable backend systems, responsive user interfaces, and exploring the frontiers of artificial intelligence and emerging technologies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashwanthkandhi" alt="jashwanthkandhi" /></a> </p>
 
-🛠️ Tech Arsenal & Skill Matrix
-Languages
+- 📫 How to reach me **jashwanthkandhi@gmail.com**
 
-Frameworks & Web Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jashwanth kandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashwanth kandhi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kandhi_jashwanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kandhi_jashwanth" height="30" width="40" /></a>
+</p>
 
-Core Interests
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-🚀 Key Projects
-JSON
-{
-  "project_name": "Smart Queue Management System",
-  "status": "Deployed / Evolving",
-  "tech_stack": ["Python", "FastAPI", "ReactJS"],
-  "description": "An intelligent algorithm-driven solution built to optimize waiting times and eliminate physical bottlenecks in high-traffic environments."
-}
-⚡ Offline Operations & Subroutines
-When my neural link is offline, you can usually find me:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashwanthkandhi&show_icons=true&locale=en&layout=compact" alt="jashwanthkandhi" /></p>
 
-🎮 Gaming: Defeating final bosses and optimizing in-game strategies.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashwanthkandhi&show_icons=true&locale=en" alt="jashwanthkandhi" /></p>
 
-🎬 Cinematic Binging: Analyzing sci-fi plots and tech tropes in movies.
-
-💡 Exploring AI: Reading up on neural networks and next-gen tech breakthroughs.
-
-📬 Connect with Me
-> Broadcast message: Open for collaborations on AI, full-stack systems, and innovative tech ideas.
-“There are 10 types of people in the world: those who understand binary, and those who haven't upgraded their firmware yet.”
-
-i need one single markdown file
-
-System.initialize("Jashwanth Kandhi")
-Loading core modules... Python, Java, C, JS [OK]
-Neural Link: AI & Rising Tech Enthusiast [ACTIVE]
-
-
----
-
-### 👽 Terminal Access: System Overview
-Hi there! I'm a tech explorer passionate about building scalable backends, interactive interfaces, and diving deep into the frontiers of Artificial Intelligence and Next-Gen Technologies. 
-
-> *"There are 10 types of people in the world: those who understand binary, and those who haven't upgraded their firmware yet."* 😉
-
----
-
-### 🛠️ Tech Arsenal & Skill Matrix
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Web Stack**
-![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Core Interests**
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Rising Tech](https://img.shields.io/badge/Rising_Tech-000000?style=for-the-badge&logo=hyperledger&logoColor=white)
-
----
-
-### 🛸 Featured Project
-
-```json
-{
-  "project_name": "Smart Queue Management System",
-  "status": "Deployed / Active",
-  "tech_stack": ["Python", "FastAPI", "ReactJS"],
-  "description": "An intelligent algorithm-driven solution engineered to optimize real-time waiting metrics and streamline service flow."
-}
-⚡ Subroutines & Side Quests (Hobbies)
-When my system enters sleep_mode() or afk:
-
-🎮 Gaming: Defeating open-world bosses and analyzing game mechanics.
-
-🎬 Cinematic Binging: Dissecting sci-fi plots, plot twists, and futuristic tech tropes.
-
-🌌 Tech Scouting: Constantly reading up on LLMs, neural networks, and emerging tech stack trends.
-
-📡 Establish Neural Link
-> Broadcast status: Open for collaborations on AI projects, full-stack developments, and innovative ideas.
-Created with ⚡ by Jashwanth Kandhi
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(markdown_content)
-
-print("Generated README.md successfully.")
-
-
-```text?code_stdout&code_event_index=1
-Generated README.md successfully.
-
-Your Markdown file is ready
-MD icon
-README
- MD 
-Open
-
-I have created your custom, futuristic README.md file complete with shield badges, terminal styling, code blocks, and fun references tailored to your profile. You can download the generated file above and add it directly to your GitHub repository!
-
-
-
-
-Gemini is AI and can make mistakes.
-
-# JASHWANTH KANDHI 🚀
-*Decoding the future, one byte at a time.*
-
-```
-> System.initialize("Jashwanth Kandhi")
-> Loading core modules... Python, Java, C, JS [OK]
-> Neural Link: AI & Rising Tech Enthusiast [ACTIVE]
-```
-
----
-
-### 👽 Terminal Access: System Overview
-Hi there! I'm a tech explorer passionate about building scalable backends, interactive interfaces, and diving deep into the frontiers of Artificial Intelligence and Next-Gen Technologies. 
-
-> *"There are 10 types of people in the world: those who understand binary, and those who haven't upgraded their firmware yet."* 😉
-
----
-
-### 🛠️ Tech Arsenal & Skill Matrix
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Web Stack**
-![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-**Core Interests**
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Rising Tech](https://img.shields.io/badge/Rising_Tech-000000?style=for-the-badge&logo=hyperledger&logoColor=white)
-
----
-
-### 🛸 Featured Project
-
-```json
-{
-  "project_name": "Smart Queue Management System",
-  "status": "Deployed / Active",
-  "tech_stack": ["Python", "FastAPI", "ReactJS"],
-  "description": "An intelligent algorithm-driven solution engineered to optimize real-time waiting metrics and streamline service flow."
-}
-```
-
----
-
-### ⚡ Subroutines & Side Quests (Hobbies)
-
-When my system enters `sleep_mode()` or `afk`:
-* 🎮 **Gaming:** Defeating open-world bosses and analyzing game mechanics.
-* 🎬 **Cinematic Binging:** Dissecting sci-fi plots, plot twists, and futuristic tech tropes.
-* 🌌 **Tech Scouting:** Constantly reading up on LLMs, neural networks, and emerging tech stack trends.
-
----
-
-### 📡 Establish Neural Link
-
-```
-> Broadcast status: Open for collaborations on AI projects, full-stack developments, and innovative ideas.
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jashwanth@example.com)
-
----
-*Created with ⚡ by Jashwanth Kandhi*
-README.md
-Displaying README.md.
